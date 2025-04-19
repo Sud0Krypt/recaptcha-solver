@@ -1,5 +1,9 @@
 # Recaptcha-Solver Made by SudoKrypt
 
+**Tele Contact:** [@sudodaemonn](https://t.me/sudodaemonn)
+
+**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
+
 Undetected Selenium Based Python Solver for Recaptcha Run main.py
 
 ## Features
